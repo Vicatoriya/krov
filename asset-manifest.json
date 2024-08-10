@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krov/static/css/main.61766e64.css",
+    "main.js": "/krov/static/js/main.1584b2da.js",
+    "static/media/back.png": "/krov/static/media/back.6563140ef56db1871c20.png",
+    "static/media/Play-Bold.ttf": "/krov/static/media/Play-Bold.b78f3be6adabf73cde7f.ttf",
+    "static/media/Play-Regular.ttf": "/krov/static/media/Play-Regular.e0424c5771f87080b05e.ttf",
+    "static/media/logo.jpg": "/krov/static/media/logo.cfe73a137a0739292062.jpg",
+    "static/media/about_us6.png": "/krov/static/media/about_us6.0a6a926cb99ab81f6823.png",
+    "static/media/about_us1.png": "/krov/static/media/about_us1.4a8772f1f784a8986e17.png",
+    "static/media/about_us2.png": "/krov/static/media/about_us2.4d0bb8ab908946046d0a.png",
+    "static/media/about_us4.png": "/krov/static/media/about_us4.72d6ed29eb6d1f5287c2.png",
+    "static/media/about_us3.png": "/krov/static/media/about_us3.33309025cb5713c2d14e.png",
+    "static/media/about_us5.png": "/krov/static/media/about_us5.72e6ab5233e6158e5b9a.png",
+    "index.html": "/krov/index.html",
+    "main.61766e64.css.map": "/krov/static/css/main.61766e64.css.map",
+    "main.1584b2da.js.map": "/krov/static/js/main.1584b2da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61766e64.css",
+    "static/js/main.1584b2da.js"
+  ]
+}
